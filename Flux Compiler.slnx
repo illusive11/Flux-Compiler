@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Flux Compiler/Flux Compiler.vcxproj" Id="a3ee696f-18b6-4c45-8cbc-a704a3765550" />
+</Solution>
